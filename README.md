@@ -4,15 +4,13 @@
 
 - 🔥 Junior Web Developer  
 
-- 🔭 I’m currently working at [Care Plus](https://github.com/Rocketseat)
+- 🔭 I’m currently working at [Care Plus](https://www.linkedin.com/company/care-plus/mycompany/)
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Python**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- ⚡ Fun fact **Gamer😜**
 
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 More at [Danilo Silva Dias](https://www.linkedin.com/in/danilosilvadias/)
 
 <!--
 
@@ -37,8 +35,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="Danilo stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="Danilo most languages"/>
 </p>
 -->
 
