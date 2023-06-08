@@ -49,7 +49,7 @@
 <p align="left" style="background:yellow">
 
 <a href="https://www.linkedin.com/in/danilosilvadias/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" alt="linkedin"/>
 </a>
 <a
 
