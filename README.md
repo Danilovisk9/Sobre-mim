@@ -40,15 +40,6 @@
 
 ## Contact
 
-<p align="left" style="background:yellow">
-
-<a href="https://www.linkedin.com/in/danilosilvadias/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Danilo Silva Dias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a
-
-</p>
-
 <!--
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
