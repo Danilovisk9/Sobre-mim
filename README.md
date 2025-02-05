@@ -2,15 +2,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Danilo Dias</h1>
 <p align="left">  </p>
 
-- 🔥 Junior Web Developer  
-
-- 🔭 I’m currently working at [Care Plus](https://www.linkedin.com/company/care-plus/mycompany/)
+- 🔥 Network, Security and Cloud
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Python**
 
-- ⚡ Fun fact **Gamer😜**
-
-- 👨‍💻 More at [Danilo Silva Dias](https://www.linkedin.com/in/danilosilvadias/)
+- ⚡ Follow me
 
 <!--
 
